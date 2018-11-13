@@ -1,0 +1,10 @@
+configurar BackEnd
+
+1º - npm i -s express body-parser cors cosign
+2º - npm i -s bcrypt-nodejs jwt-simple passport passport-jwt
+3º - npm i -s knex drive do banco ex : npm i -s knex mysql
+4º - npm i -s moment
+5º - npm i -s nodemon
+
+*DEVE SER ALTERADO NO SCRIPT DE 'TEST' pata "start" : "nodemon"
+*DEVE SER CRIADO O ARQUIVO index.js
