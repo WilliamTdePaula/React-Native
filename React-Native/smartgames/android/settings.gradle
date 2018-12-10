@@ -1,0 +1,3 @@
+rootProject.name = 'smartgames'
+
+include ':app'
